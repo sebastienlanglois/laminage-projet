@@ -1,0 +1,26 @@
+WorkspaceName=simulation
+WorkspaceDescription=
+Version=1001
+ModifiedTime=1590000608689
+UnitSystemID=2
+GmtOffset=-5
+Extents=-1000.0,1000.0,-1000.0,1000.0
+
+CoordinateInfoBegin
+type=X-Y
+units=null
+unitMult=1.0
+spheroid=null
+CoordinateInfoEnd
+
+Grow Extents=true
+ManagerIndex=602
+
+ManagerProxyBegin
+Name=Untitled
+Description=
+Path=stream.align
+Class=hec.model.StreamAlignment
+Index=600
+ModifiedTime=9223372036854775807
+ManagerProxyEnd

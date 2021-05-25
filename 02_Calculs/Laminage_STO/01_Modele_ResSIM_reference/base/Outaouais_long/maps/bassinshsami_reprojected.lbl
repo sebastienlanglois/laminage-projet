@@ -1,0 +1,47 @@
+<MapWindow version="4.7.5">
+  <Labels AppendLine1="" AppendLine2="" PrependLine1="" PrependLine2="" Field="16" Field2="0" Font="Microsoft Sans Serif" Size="8.25" LabelAllParts="False" Bold="False" Italic="False" Underline="False" Color="-16777216" Justification="1" UseMinZoomLevel="False" Scaled="False" UseShadows="True" ShadowColor="-1" Offset="0" StandardViewWidth="0" UseLabelCollision="False" RemoveDuplicateLabels="False" RotationField="" Scale="0">
+    <Label X="-888017.317445733" Y="447813.632459402" Rotation="0" Name="LE" />
+    <Label X="-848309.34472744" Y="411146.702007759" Rotation="0" Name="RL" />
+    <Label X="-799809.553348295" Y="348497.383411399" Rotation="0" Name="DJ" />
+    <Label X="-757183.43540866" Y="222626.599091227" Rotation="0" Name="BL" />
+    <Label X="-758031.488343299" Y="387970.143723245" Rotation="0" Name="KW" />
+    <Label X="-682412.897698262" Y="179043.913143928" Rotation="0" Name="MC" />
+    <Label X="-603110.512654763" Y="447237.962548977" Rotation="0" Name="DZ" />
+    <Label X="-645866.899559992" Y="182543.623022063" Rotation="0" Name="CF" />
+    <Label X="-735212.365823421" Y="486631.555046123" Rotation="0" Name="R2" />
+    <Label X="-756001.120748542" Y="263800.202487612" Rotation="0" Name="CN" />
+    <Label X="-649501.196277677" Y="146000.2855369" Rotation="0" Name="CF" />
+    <Label X="-739750.495377848" Y="539961.863849306" Rotation="0" Name="DQ" />
+    <Label X="-704463.137036485" Y="364753.123927649" Rotation="0" Name="DJ" />
+    <Label X="-610789.170765872" Y="391533.068754431" Rotation="0" Name="CB" />
+    <Label X="-589354.829085419" Y="261808.947619451" Rotation="0" Name="PA" />
+    <Label X="-480019.405883913" Y="410062.888515359" Rotation="0" Name="MM" />
+    <Label X="-494380.407329151" Y="330846.450334377" Rotation="0" Name="KM" />
+    <Label X="-511464.838362657" Y="261785.886439546" Rotation="0" Name="CA" />
+    <Label X="-646382.772155211" Y="335405.052482119" Rotation="0" Name="CN" />
+    <Label X="-580144.553747541" Y="230201.374349626" Rotation="0" Name="CS" />
+    <Label X="-592897.575508325" Y="313497.573935097" Rotation="0" Name="MN" />
+    <Label X="-474670.826760167" Y="286079.709946872" Rotation="0" Name="CA" />
+    <Label X="-537715.391589582" Y="256765.404542356" Rotation="0" Name="HF" />
+    <Label X="-551181.15066597" Y="225444.746471029" Rotation="0" Name="MR" />
+    <Label X="-528872.713289713" Y="407138.176203301" Rotation="0" Name="BK" />
+    <Label X="-848718.725999606" Y="523704.42533758" Rotation="0" Name="TM" />
+    <Label X="-532002.053253747" Y="157514.447633678" Rotation="0" Name="CA" />
+    <Label X="-692661.364783098" Y="219813.110574197" Rotation="0" Name="CF" />
+    <Label X="-617293.746098442" Y="184846.503317767" Rotation="0" Name="CF" />
+    <Label X="-596346.425741832" Y="133518.190069927" Rotation="0" Name="CA" />
+    <Label X="-728608.848039542" Y="181359.728449432" Rotation="0" Name="KG" />
+    <Label X="-480028.394134861" Y="376697.97225424" Rotation="0" Name="ML" />
+    <Label X="-534201.667735359" Y="299111.871804322" Rotation="0" Name="CR" />
+    <Label X="-750158.548871065" Y="310955.9338101" Rotation="0" Name="DJ" />
+    <Label X="-807404.807990254" Y="301840.224420353" Rotation="0" Name="DJ" />
+    <Label X="-832722.041079243" Y="460222.60223032" Rotation="0" Name="TM" />
+    <Label X="-770711.916885315" Y="476201.858018413" Rotation="0" Name="DQ" />
+    <Label X="-539836.109201326" Y="206466.507378009" Rotation="0" Name="CA" />
+    <Label X="-669692.235173393" Y="274318.726444429" Rotation="0" Name="CN" />
+    <Label X="-932797.608540889" Y="489760.224361279" Rotation="0" Name="MT" />
+    <Label X="-887155.608530257" Y="479442.99128663" Rotation="0" Name="LN" />
+    <Label X="-677075.936132133" Y="438549.09838576" Rotation="0" Name="LV" />
+    <Label X="-706871.842986347" Y="456095.388837724" Rotation="0" Name="R7" />
+  </Labels>
+</MapWindow>

@@ -1,0 +1,47 @@
+<SFRendering>
+  <Layer Name="bassinshsami_reprojected" GroupName="Data Layers" Type="3" Path="bassinshsami_reprojected.shp" Tag="" LegendPicture="" Visible="True" LabelsVisible="False" Expanded="False">
+    <Image Type="">
+    </Image>
+    <ShapeFileProperties LabelsVisible="False" MapTooltipField="-1" MapTooltipsEnabled="False" VerticesVisible="False" Color="12648384" DrawFill="True" TransparencyPercent="0.5" FillStipple="0" LineOrPointSize="1" LineStipple="0" OutLineColor="4210752" PointType="0" CustomLineStipple="0" UseTransparency="False" TransparencyColor="0" FillStippleTransparent="False" FillStippleLineColor="-5745063">
+      <CustomPointType>
+        <Image Type="">
+        </Image>
+      </CustomPointType>
+      <Legend FieldIndex="15" Key="" NumberOfBreaks="29" SchemeCaption="Regions">
+        <ColorBreaks>
+          <Break StartColor="12169447" EndColor="12169447" StartValue="BK" EndValue="BK" Caption="BK" Visible="True" />
+          <Break StartColor="11024486" EndColor="11024486" StartValue="BL" EndValue="BL" Caption="BL" Visible="True" />
+          <Break StartColor="11553364" EndColor="11553364" StartValue="CA" EndValue="CA" Caption="CA" Visible="True" />
+          <Break StartColor="7661328" EndColor="7661328" StartValue="CB" EndValue="CB" Caption="CB" Visible="True" />
+          <Break StartColor="9789636" EndColor="9789636" StartValue="CF" EndValue="CF" Caption="CF" Visible="True" />
+          <Break StartColor="8307150" EndColor="8307150" StartValue="CN" EndValue="CN" Caption="CN" Visible="True" />
+          <Break StartColor="10816574" EndColor="10816574" StartValue="CR" EndValue="CR" Caption="CR" Visible="True" />
+          <Break StartColor="4583999" EndColor="4583999" StartValue="CS" EndValue="CS" Caption="CS" Visible="True" />
+          <Break StartColor="11283252" EndColor="11283252" StartValue="DJ" EndValue="DJ" Caption="DJ" Visible="True" />
+          <Break StartColor="8407008" EndColor="8407008" StartValue="DQ" EndValue="DQ" Caption="DQ" Visible="True" />
+          <Break StartColor="6731326" EndColor="6731326" StartValue="DZ" EndValue="DZ" Caption="DZ" Visible="True" />
+          <Break StartColor="7702394" EndColor="7702394" StartValue="HF" EndValue="HF" Caption="HF" Visible="True" />
+          <Break StartColor="15454617" EndColor="15454617" StartValue="KG" EndValue="KG" Caption="KG" Visible="True" />
+          <Break StartColor="8682564" EndColor="8682564" StartValue="KM" EndValue="KM" Caption="KM" Visible="True" />
+          <Break StartColor="9610245" EndColor="9610245" StartValue="KW" EndValue="KW" Caption="KW" Visible="True" />
+          <Break StartColor="10393302" EndColor="10393302" StartValue="LE" EndValue="LE" Caption="LE" Visible="True" />
+          <Break StartColor="12687067" EndColor="12687067" StartValue="LN" EndValue="LN" Caption="LN" Visible="True" />
+          <Break StartColor="10725659" EndColor="10725659" StartValue="LV" EndValue="LV" Caption="LV" Visible="True" />
+          <Break StartColor="11505275" EndColor="11505275" StartValue="MC" EndValue="MC" Caption="MC" Visible="True" />
+          <Break StartColor="14237102" EndColor="14237102" StartValue="ML" EndValue="ML" Caption="ML" Visible="True" />
+          <Break StartColor="16466523" EndColor="16466523" StartValue="MM" EndValue="MM" Caption="MM" Visible="True" />
+          <Break StartColor="222831" EndColor="222831" StartValue="MN" EndValue="MN" Caption="MN" Visible="True" />
+          <Break StartColor="11056731" EndColor="11056731" StartValue="MR" EndValue="MR" Caption="MR" Visible="True" />
+          <Break StartColor="11476531" EndColor="11476531" StartValue="MT" EndValue="MT" Caption="MT" Visible="True" />
+          <Break StartColor="14776882" EndColor="14776882" StartValue="PA" EndValue="PA" Caption="PA" Visible="True" />
+          <Break StartColor="15046616" EndColor="15046616" StartValue="R2" EndValue="R2" Caption="R2" Visible="True" />
+          <Break StartColor="9064972" EndColor="9064972" StartValue="R7" EndValue="R7" Caption="R7" Visible="True" />
+          <Break StartColor="4193841" EndColor="4193841" StartValue="RL" EndValue="RL" Caption="RL" Visible="True" />
+          <Break StartColor="9519790" EndColor="9519790" StartValue="TM" EndValue="TM" Caption="TM" Visible="True" />
+        </ColorBreaks>
+      </Legend>
+      <FillStippleScheme FieldIndex="23" StippleCaption="" />
+    </ShapeFileProperties>
+    <DynamicVisibility UseDynamicVisibility="False" Scale="0" />
+  </Layer>
+</SFRendering>

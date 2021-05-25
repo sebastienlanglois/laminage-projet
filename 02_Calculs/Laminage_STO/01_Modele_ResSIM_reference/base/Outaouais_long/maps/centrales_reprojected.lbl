@@ -1,0 +1,207 @@
+<MapWindow version="4.7.5">
+  <Labels AppendLine1="" AppendLine2="" PrependLine1="" PrependLine2="" Field="1" Field2="0" Font="Microsoft Sans Serif" Size="12" LabelAllParts="False" Bold="False" Italic="False" Underline="False" Color="-16777216" Justification="1" UseMinZoomLevel="False" Scaled="False" UseShadows="True" ShadowColor="-1" Offset="0" StandardViewWidth="0" UseLabelCollision="False" RemoveDuplicateLabels="False" RotationField="" Scale="0">
+    <Label X="-265875.273206855" Y="162887.988531753" Rotation="0" Name="Abénaquis" />
+    <Label X="-195839.944492654" Y="521223.215620589" Rotation="0" Name="Adam Cunningham" />
+    <Label X="-527197.306540162" Y="1898950.07299269" Rotation="0" Name="Akulivik" />
+    <Label X="-171802.244146974" Y="317219.577017178" Rotation="0" Name="Arthurville" />
+    <Label X="-62933.6417121803" Y="1695726.91003802" Rotation="0" Name="Aupaluk" />
+    <Label X="-456143.395479177" Y="201817.425673379" Rotation="0" Name="Ayers-1" />
+    <Label X="-456766.307357076" Y="201080.61744239" Rotation="0" Name="Ayers-2" />
+    <Label X="-152227.803272287" Y="384305.081337351" Rotation="0" Name="Baie-Saint-Paul" />
+    <Label X="-270167.257300369" Y="171369.153163495" Rotation="0" Name="Barrage-Larocque" />
+    <Label X="-424330.98752993" Y="162505.647739324" Rotation="0" Name="Beauharnois" />
+    <Label X="-325221.300667517" Y="405361.500298674" Rotation="0" Name="Beaumont" />
+    <Label X="-295924.186309005" Y="274264.097216979" Rotation="0" Name="Bécancour" />
+    <Label X="-260659.27541235" Y="133361.413893195" Rotation="0" Name="Belding" />
+    <Label X="-238554.606023527" Y="499006.79518652" Rotation="0" Name="Belle-Rivière" />
+    <Label X="-75905.7769360496" Y="588601.321826578" Rotation="0" Name="Bersimis-1" />
+    <Label X="-52670.1861912462" Y="575076.196712432" Rotation="0" Name="Bersimis-2" />
+    <Label X="-244919.576171124" Y="311411.825518557" Rotation="0" Name="Bird-1" />
+    <Label X="-244919.576171124" Y="311411.825518557" Rotation="0" Name="Bird-2" />
+    <Label X="777008.689954922" Y="884006.162544839" Rotation="0" Name="Blanc-Sablon" />
+    <Label X="-129816.916243714" Y="1159678.01542404" Rotation="0" Name="Brisay" />
+    <Label X="-632833.88696317" Y="221082.479552846" Rotation="0" Name="Bryson" />
+    <Label X="-539803.573968494" Y="203237.777449559" Rotation="0" Name="Buckingham" />
+    <Label X="-723278.29651888" Y="517876.682214761" Rotation="0" Name="Cadillac" />
+    <Label X="-647108.276038932" Y="403229.830700648" Rotation="0" Name="Camatose" />
+    <Label X="-459188.806150418" Y="193616.826546859" Rotation="0" Name="Carillon" />
+    <Label X="26547.4695989317" Y="810237.892802484" Rotation="0" Name="Cascades-Savard" />
+    <Label X="-448078.583571178" Y="658408.553874119" Rotation="0" Name="Chapais" />
+    <Label X="-568268.349483376" Y="197472.186334389" Rotation="0" Name="Chelsea" />
+    <Label X="-189884.863650232" Y="495334.7361177" Rotation="0" Name="Chicoutimi" />
+    <Label X="296153.090625592" Y="1063701.00361828" Rotation="0" Name="Churchill Falls" />
+    <Label X="-244364.710089868" Y="533899.186338387" Rotation="0" Name="Chute à la Savane" />
+    <Label X="-233810.522707375" Y="536381.848470231" Rotation="0" Name="Chute du Diable" />
+    <Label X="-202805.162192996" Y="498495.663559374" Rotation="0" Name="Chute-à-Caron" />
+    <Label X="-342967.98715267" Y="280565.059319867" Rotation="0" Name="Chute-à-Magnan" />
+    <Label X="-198241.676672668" Y="520578.48071445" Rotation="0" Name="Chute-aux-Galets" />
+    <Label X="-480631.862956744" Y="218416.904400356" Rotation="0" Name="Chute-Bell" />
+    <Label X="-260441.601917487" Y="544567.109022581" Rotation="0" Name="Chute-Blanche" />
+    <Label X="-190556.36204897" Y="494726.68295431" Rotation="0" Name="Chute-Blanchette" />
+    <Label X="-277181.6247032" Y="134707.999276179" Rotation="0" Name="Chute-Burroughs" />
+    <Label X="-604564.972274165" Y="197110.031937692" Rotation="0" Name="Chute-des-Chats" />
+    <Label X="-190432.06160581" Y="651940.420164905" Rotation="0" Name="Chute-des-Passes" />
+    <Label X="-306683.220357164" Y="216015.655909315" Rotation="0" Name="Chute-Hemmings" />
+    <Label X="-267400.308016326" Y="317060.858484499" Rotation="0" Name="Chutes-à-Gorry" />
+    <Label X="-212547.136118397" Y="306276.915014481" Rotation="0" Name="Chutes-de-la-Chaudière" />
+    <Label X="-508238.56699418" Y="481252.319644411" Rotation="0" Name="Clova" />
+    <Label X="-120228.965257078" Y="452197.519653226" Rotation="0" Name="Club Bataram" />
+    <Label X="-332510.02663258" Y="367844.825444524" Rotation="0" Name="Club des Alcaniens" />
+    <Label X="-397099.206796058" Y="170594.675760134" Rotation="0" Name="Côte-Sainte-Catherine-1" />
+    <Label X="-397099.206796058" Y="170594.675760134" Rotation="0" Name="Côte-Sainte-Catherine-2" />
+    <Label X="-397099.206796058" Y="170594.675760134" Rotation="0" Name="Côte-Sainte-Catherine-3" />
+    <Label X="-637084.320108007" Y="212894.831761315" Rotation="0" Name="Des Chenaux" />
+    <Label X="-707861.509264704" Y="288618.852959346" Rotation="0" Name="Des Joachims" />
+    <Label X="-273778.891330632" Y="548308.398761394" Rotation="0" Name="Dolbeau" />
+    <Label X="-247925.659445312" Y="303057.243088217" Rotation="0" Name="Donnacona" />
+    <Label X="-271186.565031032" Y="160493.146959151" Rotation="0" Name="Drummond" />
+    <Label X="-309138.312055204" Y="218785.398957704" Rotation="0" Name="Drummondville" />
+    <Label X="-539709.372367089" Y="202578.96655613" Rotation="0" Name="Dufferin" />
+    <Label X="-247423.636518785" Y="170699.191931817" Rotation="0" Name="East Angus" />
+    <Label X="-265437.859296661" Y="151986.433612089" Rotation="0" Name="Eustis" />
+    <Label X="-76949.2757071709" Y="427627.08934438" Rotation="0" Name="Fraser" />
+    <Label X="-266311.434587123" Y="162602.559233092" Rotation="0" Name="Frontenac" />
+    <Label X="-396774.622034062" Y="188602.536808595" Rotation="0" Name="Gazmont" />
+    <Label X="-296167.033728002" Y="274634.804681932" Rotation="0" Name="Gentilly-2" />
+    <Label X="-261875.66569691" Y="322163.3679464" Rotation="0" Name="Glenford" />
+    <Label X="-319550.670993923" Y="300419.146888137" Rotation="0" Name="Grand-Mère" />
+    <Label X="-283266.926079708" Y="149069.252404983" Rotation="0" Name="Grande Dame" />
+    <Label X="40274.6451301974" Y="863496.55196499" Rotation="0" Name="Hart-Jaune" />
+    <Label X="-554375.020310501" Y="232632.777938323" Rotation="0" Name="High Falls" />
+    <Label X="-564844.63786444" Y="187165.585770629" Rotation="0" Name="Hull" />
+    <Label X="-564797.708046787" Y="186962.422291391" Rotation="0" Name="Hull-2" />
+    <Label X="-262775.698347022" Y="155531.147289175" Rotation="0" Name="Huntingville" />
+    <Label X="505267.325284201" Y="401644.1175868" Rotation="0" Name="Îles-de-la-Madeleine" />
+    <Label X="-557134.455353911" Y="1638706.2959558" Rotation="0" Name="Inukjuak" />
+    <Label X="-230230.006119227" Y="513651.723587222" Rotation="0" Name="Isle-Maligne" />
+    <Label X="-488200.422212489" Y="2075422.20573789" Rotation="0" Name="Ivujivik" />
+    <Label X="-194542.299227033" Y="296804.482206563" Rotation="0" Name="Jean-Guérin" />
+    <Label X="-198730.447525972" Y="525830.931258985" Rotation="0" Name="Jim Gray" />
+    <Label X="-640402.537458552" Y="238153.681309398" Rotation="0" Name="Joey-Tanenbaum" />
+    <Label X="-202402.315576309" Y="496631.394174338" Rotation="0" Name="Jonquière" />
+    <Label X="-203086.257337516" Y="495220.036826876" Rotation="0" Name="Jonquière-No-1" />
+    <Label X="147258.876223653" Y="1629981.78641536" Rotation="0" Name="Kangiqsualujjuaq" />
+    <Label X="-184235.423056697" Y="1955959.82487339" Rotation="0" Name="Kangiqsujuaq" />
+    <Label X="-84394.1963201245" Y="1776032.16549884" Rotation="0" Name="Kangirsuk" />
+    <Label X="-277667.183922471" Y="213946.55407338" Rotation="0" Name="Kingsey Falls" />
+    <Label X="5730.41978815023" Y="1562742.60212589" Rotation="0" Name="Kuujjuaq" />
+    <Label X="5730.41978815023" Y="1562742.60212589" Rotation="0" Name="Kuujjuaq" />
+    <Label X="-582430.094346378" Y="1287230.43238029" Rotation="0" Name="Kuujjuarapik" />
+    <Label X="-132086.639534977" Y="469350.257031831" Rotation="0" Name="L'Anse-Saint-Jean" />
+    <Label X="502182.901419389" Y="381582.967831125" Rotation="0" Name="L'Île-d'Entrée" />
+    <Label X="-386596.115943314" Y="170977.199490564" Rotation="0" Name="La Citière" />
+    <Label X="-325257.076570715" Y="282290.588937436" Rotation="0" Name="La Gabelle" />
+    <Label X="-657615.308193597" Y="1125176.2955223" Rotation="0" Name="La Grande-1" />
+    <Label X="-590232.97476781" Y="1120872.31878489" Rotation="0" Name="La Grande-2-A" />
+    <Label X="-489489.605907079" Y="1103540.80660187" Rotation="0" Name="La Grande-3" />
+    <Label X="-323688.018153155" Y="1106669.62511409" Rotation="0" Name="La Grande-4" />
+    <Label X="553152.335873462" Y="720093.005697116" Rotation="0" Name="La Romaine" />
+    <Label X="-775038.730821264" Y="596310.709174558" Rotation="0" Name="La Sarre-1" />
+    <Label X="-780597.635350212" Y="596462.971674902" Rotation="0" Name="La Sarre-2" />
+    <Label X="664447.102006698" Y="802873.895028131" Rotation="0" Name="La Tabatière" />
+    <Label X="-323182.736683133" Y="392832.612505942" Rotation="0" Name="La Tuque" />
+    <Label X="656061.249780367" Y="819713.408022673" Rotation="0" Name="Lac-Robertson" />
+    <Label X="-393589.927174936" Y="203547.66976954" Rotation="0" Name="Lachenaie" />
+    <Label X="-266638.444294027" Y="1134290.2546331" Rotation="0" Name="Laforge-1" />
+    <Label X="-178059.238928065" Y="1177033.81320532" Rotation="0" Name="Laforge-2" />
+    <Label X="65847.3395328899" Y="530711.00278919" Rotation="0" Name="Le Nordais" />
+    <Label X="128271.739456132" Y="565465.376173582" Rotation="0" Name="Le Nordais" />
+    <Label X="-614851.249243962" Y="598022.256924281" Rotation="0" Name="Lebel-sur-Quévillon" />
+    <Label X="233001.643675838" Y="466884.980884073" Rotation="0" Name="Lebreux" />
+    <Label X="-433668.037948772" Y="162629.538038098" Rotation="0" Name="Les Cèdres" />
+    <Label X="-579203.140388757" Y="231829.580187474" Rotation="0" Name="Low" />
+    <Label X="-286292.241205689" Y="148070.63693282" Rotation="0" Name="Magog" />
+    <Label X="286122.014149072" Y="709778.646434071" Rotation="0" Name="Magpie" />
+    <Label X="12362.8546775834" Y="576596.825816258" Rotation="0" Name="Manic-1" />
+    <Label X="11051.2710661422" Y="590963.825336288" Rotation="0" Name="Manic-2" />
+    <Label X="-6814.92000612969" Y="637247.90014729" Rotation="0" Name="Manic-3" />
+    <Label X="-15929.9916187649" Y="736773.611626589" Rotation="0" Name="Manic-5" />
+    <Label X="-16398.833020381" Y="737528.861900528" Rotation="0" Name="Manic-5-PA" />
+    <Label X="-681881.213255646" Y="1048170.61341751" Rotation="0" Name="Maquatua" />
+    <Label X="-202211.011071634" Y="325759.949334054" Rotation="0" Name="Marches-Naturelles" />
+    <Label X="-540138.672254438" Y="198096.967028821" Rotation="0" Name="Masson" />
+    <Label X="65847.3395328899" Y="530711.00278919" Rotation="0" Name="Matane" />
+    <Label X="12552.8226155763" Y="576789.915813169" Rotation="0" Name="Mc Cormick" />
+    <Label X="-243790.021891051" Y="310461.736836338" Rotation="0" Name="McDougall" />
+    <Label X="-408264.934311426" Y="179170.694173829" Rotation="0" Name="Meloche" />
+    <Label X="-270407.405037998" Y="551846.677944328" Rotation="0" Name="Minashtuk" />
+    <Label X="26609.7369239359" Y="511607.418563122" Rotation="0" Name="Mitis-1" />
+    <Label X="26576.5913391544" Y="513630.35357913" Rotation="0" Name="Mitis-2" />
+    <Label X="-535356.736608099" Y="310591.237959215" Rotation="0" Name="Mont-Laurier" />
+    <Label X="-155429.521864139" Y="334522.269552405" Rotation="0" Name="Montmagny" />
+    <Label X="-176811.622848056" Y="290599.370617266" Rotation="0" Name="Moulin-aux-Abénaquis" />
+    <Label X="-199810.974278091" Y="498542.361207758" Rotation="0" Name="Murdock Wilson" />
+    <Label X="-203701.977273073" Y="493812.966821016" Rotation="0" Name="Niveau Inférieur" />
+    <Label X="-471639.224798854" Y="538468.179372811" Rotation="0" Name="Obedjiwan" />
+    <Label X="-185199.467650915" Y="546556.477888018" Rotation="0" Name="Onatchiway" />
+    <Label X="-783570.874860079" Y="320894.800091102" Rotation="0" Name="Otto Holden" />
+    <Label X="8018.10743290961" Y="571424.902519238" Rotation="0" Name="Outardes-2" />
+    <Label X="-16189.5243342968" Y="617058.828378208" Rotation="0" Name="Outardes-3" />
+    <Label X="-28954.0010594408" Y="633332.461981971" Rotation="0" Name="Outardes-4" />
+    <Label X="-266345.450661781" Y="162167.574382654" Rotation="0" Name="Paton" />
+    <Label X="-576804.676928548" Y="231580.315004791" Rotation="0" Name="Paugan" />
+    <Label X="-260107.338380353" Y="133795.440476717" Rotation="0" Name="Penman" />
+    <Label X="95557.4374393016" Y="643392.447128516" Rotation="0" Name="Pentecôte" />
+    <Label X="-556250.099722159" Y="198674.534250551" Rotation="0" Name="Petite High-Falls (désaffectée)" />
+    <Label X="-84111.700114041" Y="475017.913177043" Rotation="0" Name="Petites-Bergeronnes" />
+    <Label X="116958.3490566" Y="670514.34329668" Rotation="0" Name="Port-Cartier" />
+    <Label X="296745.239911348" Y="654675.16419293" Rotation="0" Name="Port-Menier" />
+    <Label X="-46307.1618575271" Y="517832.032219697" Rotation="0" Name="Portneuf-1" />
+    <Label X="-48410.8730148685" Y="517266.671452576" Rotation="0" Name="Portneuf-2" />
+    <Label X="-61482.4219194371" Y="521616.846528995" Rotation="0" Name="Portneuf-3" />
+    <Label X="-818041.325699706" Y="463083.383255554" Rotation="0" Name="Première-Chute" />
+    <Label X="-487418.224140419" Y="1806674.03178622" Rotation="0" Name="Puvirnituq" />
+    <Label X="-61233.2376688784" Y="1890355.51017057" Rotation="0" Name="Quaqtaq" />
+    <Label X="-747865.819393921" Y="490075.0311599" Rotation="0" Name="Rapide-2" />
+    <Label X="-730724.15454245" Y="469201.633843709" Rotation="0" Name="Rapide-7" />
+    <Label X="-333840.65743195" Y="432553.785482441" Rotation="0" Name="Rapide-Blanc" />
+    <Label X="-811152.862782151" Y="459432.676257128" Rotation="0" Name="Rapides-des-Îles" />
+    <Label X="-806428.567789369" Y="460292.881484614" Rotation="0" Name="Rapides-des-Quinze" />
+    <Label X="-567321.465881542" Y="195842.520908683" Rotation="0" Name="Rapides-Farmers" />
+    <Label X="-404372.53151757" Y="242617.329821121" Rotation="0" Name="Rawdon" />
+    <Label X="-3911.56417208569" Y="490255.761445359" Rotation="0" Name="Rimouski" />
+    <Label X="-402430.319000802" Y="191619.921744035" Rotation="0" Name="Rivière-des-Prairies" />
+    <Label X="-76799.6347217165" Y="426368.964700914" Rotation="0" Name="Rivière-du-Loup" />
+    <Label X="-589376.878162636" Y="1121081.8935093" Rotation="0" Name="Robert-Bourassa" />
+    <Label X="-274087.990024021" Y="156245.562052955" Rotation="0" Name="Rock Forest" />
+    <Label X="-41534.6049663994" Y="526187.328264601" Rotation="0" Name="RSP-1" />
+    <Label X="-49041.3622358999" Y="526098.552914932" Rotation="0" Name="RSP-2" />
+    <Label X="-41410.9137055099" Y="526401.664727375" Rotation="0" Name="RSP-3" />
+    <Label X="-273510.807099935" Y="308113.713698542" Rotation="0" Name="Saint-Alban" />
+    <Label X="681267.632073634" Y="848477.329254075" Rotation="0" Name="Saint-Augustin" />
+    <Label X="-289445.634488441" Y="525124.321597431" Rotation="0" Name="Saint-Félicien" />
+    <Label X="-296537.026957998" Y="533442.382802609" Rotation="0" Name="Saint-Félicien Donohue" />
+    <Label X="-427583.916960384" Y="215422.195459326" Rotation="0" Name="Saint-Jérôme" />
+    <Label X="-469200.061663335" Y="256963.358006241" Rotation="0" Name="Saint-Jovite" />
+    <Label X="-392194.878064266" Y="180442.591423036" Rotation="0" Name="Saint-Lambert" />
+    <Label X="-299424.324346608" Y="291867.656919752" Rotation="0" Name="Saint-Narcisse" />
+    <Label X="-260607.357180429" Y="133049.712308986" Rotation="0" Name="Saint-Paul" />
+    <Label X="-171077.423032134" Y="316143.386877339" Rotation="0" Name="Saint-Raphaël" />
+    <Label X="-307805.950432899" Y="234710.187643255" Rotation="0" Name="Sainte-Brigitte-des-Saults" />
+    <Label X="132235.463747471" Y="689525.256035218" Rotation="0" Name="Sainte-Marguerite-1" />
+    <Label X="130635.031052083" Y="691180.110240161" Rotation="0" Name="Sainte-Marguerite-2" />
+    <Label X="120593.762411204" Y="746774.856041493" Rotation="0" Name="Sainte-Marguerite-3" />
+    <Label X="-373161.483530523" Y="2038258.19759106" Rotation="0" Name="Salluit" />
+    <Label X="-643741.886178194" Y="527651.899018939" Rotation="0" Name="Senneterre" />
+    <Label X="-176293.174348584" Y="350285.441334521" Rotation="0" Name="Sept-Chutes" />
+    <Label X="-326808.421158906" Y="292120.239721195" Rotation="0" Name="Shawinigan-2" />
+    <Label X="-326704.223518426" Y="291799.092282315" Rotation="0" Name="Shawinigan-3" />
+    <Label X="-199950.092918685" Y="498116.570243211" Rotation="0" Name="Shipshaw" />
+    <Label X="-347078.353594932" Y="191545.081847762" Rotation="0" Name="T.-D.-Bouchard" />
+    <Label X="-82642.1242097253" Y="1628996.36225185" Rotation="0" Name="Tasiujaq" />
+    <Label X="-805908.314008956" Y="361903.343627361" Rotation="0" Name="Tembec" />
+    <Label X="-325581.626078831" Y="293401.589956068" Rotation="0" Name="Thibaudeau-Ricard" />
+    <Label X="-361730.340569047" Y="234130.619251986" Rotation="0" Name="Tracy" />
+    <Label X="-327050.925314717" Y="427216.292833518" Rotation="0" Name="Trenche" />
+    <Label X="262623.873238757" Y="1061030.07497292" Rotation="0" Name="Twins Falls" />
+    <Label X="-491395.043970117" Y="1418369.30600543" Rotation="0" Name="Umiujaq" />
+    <Label X="-652003.40786398" Y="251900.050850622" Rotation="0" Name="W.R. Beatty" />
+    <Label X="-231083.339665835" Y="189955.03358644" Rotation="0" Name="Weedon" />
+    <Label X="-244051.494585285" Y="172239.967369892" Rotation="0" Name="Westbury" />
+    <Label X="-391349.969989436" Y="448020.960778796" Rotation="0" Name="Weymontachie" />
+    <Label X="-274008.64375764" Y="180327.776007192" Rotation="0" Name="Windsor" />
+    <Label X="-752018.389437818" Y="450307.483400918" Rotation="0" Name="Winneway" />
+    <Label X="24243.1124123001" Y="662840.937104894" Rotation="0" Name="Toulnoustouc" />
+    <Label X="-511938.36398751" Y="934024.013330349" Rotation="0" Name="Eastmain-1" />
+  </Labels>
+</MapWindow>
